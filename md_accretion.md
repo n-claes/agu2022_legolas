@@ -1,9 +1,11 @@
 ---
 title: Accretion disk
 layout: home
+nav_order: 2
 ---
 
 # Accretion disk instabilities
+Movies associated with the accretion disk setup.
 
 ## 2D evolution of density perturbations only
 ![](accretion_2d_rho.mp4)
