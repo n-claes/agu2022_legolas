@@ -6,4 +6,7 @@ layout: home
 # Magnetothermal instabilities
 
 ## 3D temporal evolution of slices
-![](magnetothermal_z_3dslice_imposed.mp4)
+![](magnetothermal_rho_slices.mp4)
+
+## 3D visualisation of velocity eigenfunctions
+![](magnetothermal_vfield.mp4)
